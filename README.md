@@ -1,3 +1,4 @@
-# Introduction
+# Flutter笔记
 
-this is readme file
+这是基于Gitbook书写的Flutter学习笔记  
+
